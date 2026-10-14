@@ -8,7 +8,8 @@ A collection of foundational Python scripts demonstrating core programming conce
 * **`SUM_NUMBERS.py`** - Takes two numerical inputs from the user and calculates their sum.
 * **`AVERAGE_NUMBERS.py`** - Takes two numerical inputs and calculates their mathematical average, showcasing order of operations.
 * **`SMART_TEMPERATURE_CONVERTER.py`** - A smart temperature converter that takes a temperature in Celsius from the user and converts it to both Fahrenheit and Kelvin. Demonstrates explicit type casting and standard arithmetic operators.
-* **`BILL_SPLIT_CONVERTER.py`** - A bill split calculator that determines an equal split among a group of people. Showcases float division, integer casting, and formatted string outputs to display precise currency to two decimal places.
+* **`BILL_SPLIT_CALCULATOR.py`** - A bill split calculator that determines an equal split among a group of people. Showcases float division, integer casting, and formatted string outputs to display precise currency to two decimal places.
+* **`EMOJI_CONVERTER.py`** - A text-to-emoji converter that parses user input and replaces specific keywords with their corresponding emojis, demonstrating string manipulation and dictionary mapping.
 
 ## 🚀 How to Run Locally
 
