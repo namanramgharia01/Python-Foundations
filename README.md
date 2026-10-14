@@ -1,19 +1,18 @@
-# Python Foundations
+# Python-Foundations
 
-A collection of foundational Python scripts demonstrating core programming concepts, logic, and syntax. This repository serves as a portfolio of my early technical practice for my B.Sc. in Computer Science coursework.
+A collection of foundational Python scripts covering basic programming concepts, math operations, and utility tools.
 
-## 📂 Projects Included
+## Contents
 
-* **`AREA_CIRCLE.py`** - Calculates the area of a circle based on a user-provided radius. Demonstrates type casting and basic geometric arithmetic.
-* **`SUM_NUMBERS.py`** - Takes two numerical inputs from the user and calculates their sum.
-* **`AVERAGE_NUMBERS.py`** - Takes two numerical inputs and calculates their mathematical average, showcasing order of operations.
-* **`SMART_TEMPERATURE_CONVERTER.py`** - A smart temperature converter that takes a temperature in Celsius from the user and converts it to both Fahrenheit and Kelvin. Demonstrates explicit type casting and standard arithmetic operators.
-* **`BILL_SPLIT_CALCULATOR.py`** - A bill split calculator that determines an equal split among a group of people. Showcases float division, integer casting, and formatted string outputs to display precise currency to two decimal places.
-* **`EMOJI_CONVERTER.py`** - A text-to-emoji converter that parses user input and replaces specific keywords with their corresponding emojis, demonstrating string manipulation and dictionary mapping.
+* **`AREA_CIRCLE.py`**: Calculates the area of a circle.
+* **`AVERAGE_NUMBERS.py`**: Computes the average of a given set of numbers.
+* **`BILL_SPLIT_CALCULATOR.py`**: Calculates and splits a bill among multiple people.
+* **`CHECK_NUMBER.py`**: Takes a number as input (including floats) and prints whether it is "Positive", "Negative", or "Zero".
+* **`EMOJI_CONVERTER.py`**: Converts specific text input into corresponding emojis.
+* **`SMART_TEMPERATURE_CONVERTER.py`**: Converts temperatures between Celsius, Fahrenheit, and potentially Kelvin.
+* **`SUM_NUMBERS.py`**: Calculates the sum of provided numbers.
 
-## 🚀 How to Run Locally
-
-To run any of these scripts on your local machine, open your terminal and use the `python3` command followed by the file name:
-
+## Getting Started
+Ensure you have Python installed. You can run any of these scripts from your terminal using:
 ```bash
-python3 <filename>.py
+python <filename.py>
