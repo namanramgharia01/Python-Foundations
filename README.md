@@ -1,15 +1,16 @@
-# Python Practice Scripts
+# Python Foundations
 
-This repository contains introductory Python scripts I am writing as part of my B.Sc. Computer Science coursework to build my programming fundamentals.
+A collection of foundational Python scripts demonstrating core programming concepts, logic, and syntax. This repository serves as a portfolio of my early technical practice for my B.Sc. in Computer Science coursework.
 
-## Scripts Included
+## Projects Included
 
-* `AREA_CIRCLE.py` - Calculates the area of a circle from a user-provided radius.
-* `SUM_NUMBERS.py` - Takes two numbers as input and prints their total sum.
+* **`AREA_CIRCLE.py`** - Calculates the area of a circle based on a user-provided radius. Demonstrates type casting and basic geometric arithmetic.
+* **`SUM_NUMBERS.py`** - Takes two numerical inputs from the user and calculates their sum.
+* **`AVERAGE_NUMBERS.py`** - Takes two numerical inputs and calculates their mathematical average, showcasing order of operations.
 
-## How to Run
+## How to Run Locally
 
-To test these scripts on your own machine, open your terminal and run them using Python 3:
+To run any of these scripts on your local machine, open your terminal and use the `python3` command followed by the file name:
 
 ```bash
-python3 AREA_CIRCLE.py
+python3 <filename>.py
