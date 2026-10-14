@@ -1,8 +1,15 @@
-# Area of a Circle Calculator
+# Python Practice Scripts
 
-A simple Python script that calculates the area of a circle based on user input. 
+This repository contains introductory Python scripts I am writing as part of my B.Sc. Computer Science coursework to build my programming fundamentals.
 
-## How to run
-1. Ensure you have Python installed.
-2. Run the script in your terminal: `python3 AREA_CIRCLE.py`
-3. Enter the radius when prompted.
+## Scripts Included
+
+* `AREA_CIRCLE.py` - Calculates the area of a circle from a user-provided radius.
+* `SUM_NUMBERS.py` - Takes two numbers as input and prints their total sum.
+
+## How to Run
+
+To test these scripts on your own machine, open your terminal and run them using Python 3:
+
+```bash
+python3 AREA_CIRCLE.py
