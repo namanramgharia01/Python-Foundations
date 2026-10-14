@@ -10,6 +10,7 @@ A collection of foundational Python scripts covering basic programming concepts,
 * **`CHECK_NUMBER.py`**: Takes a number as input (including floats) and prints whether it is "Positive", "Negative", or "Zero".
 * **`EMOJI_CONVERTER.py`**: Converts specific text input into corresponding emojis.
 * **`SMART_TEMPERATURE_CONVERTER.py`**: Converts temperatures between Celsius, Fahrenheit, and potentially Kelvin.
+* **`SUM_N_NATURAL_NOS.py`**: Calculates the sum of the first 'n' natural numbers using a for loop.
 * **`SUM_NUMBERS.py`**: Calculates the sum of provided numbers.
 
 ## Getting Started
