@@ -10,6 +10,7 @@ A collection of foundational Python scripts covering basic programming concepts,
 * **`CHECK_NUMBER.py`**: Takes a number as input (including floats) and prints whether it is "Positive", "Negative", or "Zero".
 * **`COUNTDOWN_TIMER.py`**: A countdown timer that prints a sequence before an event using a for loop and the time module.
 * **`COUNT_CONSONANTS.py`**: Counts and prints the number of consonants in a user-provided string.
+* **`COUNT_VOWELS.py`**: Counts and prints the number of vowels in a user-provided string.
 * **`EMOJI_CONVERTER.py`**: Converts specific text input into corresponding emojis.
 * **`SMART_TEMPERATURE_CONVERTER.py`**: Converts temperatures between Celsius, Fahrenheit, and potentially Kelvin.
 * **`SQUARE_NOS.py`**: Calculates and prints the squares of numbers.
