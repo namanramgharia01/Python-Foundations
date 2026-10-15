@@ -13,6 +13,7 @@ A collection of foundational Python scripts covering basic programming concepts,
 * **`STAR_PATTERN.py`**: Prints a right-angled triangle pattern of asterisks using nested while loops.
 * **`SUM_N_NATURAL_NOS.py`**: Calculates the sum of the first 'n' natural numbers using a for loop.
 * **`SUM_NUMBERS.py`**: Calculates the sum of provided numbers.
+* **`TABLE.py`**: Prints the multiplication table of a given number using a while loop.
 
 ## Getting Started
 Ensure you have Python installed. You can run any of these scripts from your terminal using:
