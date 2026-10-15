@@ -1,3 +1,4 @@
+#Program to count the number of vowels in a string
 def vowel_text(text):
     vowels = "aeiouAEIOU"
     vowel_count = 0

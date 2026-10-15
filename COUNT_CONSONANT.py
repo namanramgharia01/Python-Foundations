@@ -1,3 +1,4 @@
+#Program to count the number of consonants in a given string
 def count_consonants(text):
     vowels = "aeiouAEIOU"
     consonant_count = 0
